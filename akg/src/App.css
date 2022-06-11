@@ -1,0 +1,35 @@
+.btn{
+  width: 100%;
+}
+
+
+.cover-photo {
+  /* The image used */
+  background-image: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg");
+
+  /* Full height */
+  height: 100%; 
+  color: aliceblue;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dropdown{
+  cursor: pointer;
+}
+
+.inputfield{
+  text-decoration: none;
+  
+}
+
+.search{
+  border-radius: 10px;
+}
+
+.sronly{
+  color: blue;
+}
