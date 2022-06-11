@@ -15,7 +15,7 @@ function Header() {
     <div className="collapse navbar-collapse justify-content-center " id="navbarTogglerDemo02">
         <form className=" d-flex ml-5  my-2 my-lg-0">
 
-            <i className=" mdi mdi-search"></i>
+            <i className=" mdi mdi-magnify"></i>
             
             <input className="form-control search mr-sm-4" type="search" placeholder="Search for your favorite groups in ATG"/>
           </form>

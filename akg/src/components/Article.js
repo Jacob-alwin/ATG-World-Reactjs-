@@ -15,7 +15,7 @@ function Article() {
         <div className="d-flex align-items-center justify-content-between m-2 ms-5">
         <h2 className="card-title me-5 ps-4">What if famous brands had regular fonts? Meet RegulaBrands!</h2>
         <div className="dropdown">
-            <i className="mdi mdi-dots-horizontal mdi-24px me-2"data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></i>
+            <i className="mdi mdi-dots-horizontal mdi-24px me-2 "data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></i>
             <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
               <a className="dropdown-item" href="#">Edit</a>
               <a className="dropdown-item" href="#">Report</a>
