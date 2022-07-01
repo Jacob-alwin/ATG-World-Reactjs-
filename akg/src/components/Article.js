@@ -1,14 +1,14 @@
 import React from 'react'
 import arcpro from '../assets/Group 448.png';
-import arcmain from '../assets/WhatsApp Image 2022-06-07 at 8.40.54 PM - Copy.jpeg';
-import arcpic from '../assets/Rectangle 5.png';
+import arcmain from '../assets/2.png';
+import arcpic from '../assets/Rectangle 6.png';
 
 
 function Article() {
   return (
 
     <div className="card mb-4">
-    <a href="#!"><img className="card-img-top" src={arcpic} alt="..." /></a>
+    <a ><img className="card-img-top" src={arcpic} alt="..." /></a>
     <div className="card-body">
         <div className="small text-muted">Article</div>
     
@@ -17,9 +17,9 @@ function Article() {
         <div className="dropdown">
             <i className="mdi mdi-dots-horizontal mdi-24px me-2 "data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></i>
             <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <a className="dropdown-item" href="#">Edit</a>
-              <a className="dropdown-item" href="#">Report</a>
-              <a className="dropdown-item" href="#">Alert</a>
+              <a className="dropdown-item" >Edit</a>
+              <a className="dropdown-item" >Report</a>
+              <a className="dropdown-item" >Alert</a>
             </div>
           </div>
         </div>

@@ -1,7 +1,7 @@
 import React from 'react'
 
 import arcpro from '../assets/Group 448.png';
-import arcmain from '../assets/WhatsApp Image 2022-06-07 at 8.40.54 PM - Copy.jpeg';
+import arcmain from '../assets/3.png';
 
 
 
@@ -17,9 +17,9 @@ function ArticleApply() {
         <div className="dropdown">
             <i className="mdi mdi-dots-horizontal mdi-24px me-2"data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></i>
             <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <a className="dropdown-item" href="#">Edit</a>
-              <a className="dropdown-item" href="#">Report</a>
-              <a className="dropdown-item" href="#">Alert</a>
+              <a className="dropdown-item" >Edit</a>
+              <a className="dropdown-item" >Report</a>
+              <a className="dropdown-item" >Alert</a>
             </div>
           </div>
         </div>
@@ -30,7 +30,7 @@ function ArticleApply() {
      
         <div className="small text-bold  mb-2 "><span className="mr-5 "><i className=" mdi mdi-suit-case"></i> Innovaccer Analytics Private Ltd. </span><span><i className=" mdi mdi-map-marker"></i> Noida, India</span></div>
 
-        <a className="btn content btn-outline-success" href="#!">Apply on Timesjobs</a>
+        <a className="btn content btn-outline-success" >Apply on Timesjobs</a>
         <div className="py-2 bg-light">
                             <div className="d-flex align-items-center justify-content-between m-3">
                                 <div className="left">
